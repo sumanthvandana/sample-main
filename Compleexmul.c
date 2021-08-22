@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<malloc.h>
 
 
 int p,q,r,s,u,v;
