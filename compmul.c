@@ -35,13 +35,10 @@ void mul(int* a, int* b, int* p, int* q, int c, int d)
   for (i=0;i<maxSize;i++)
   {
       printf("%d ",CR[i]);
-      
+        printf (" + i");
+       printf("%d \n",CI[i]);
   }
-  printf (" + i ");
-  for (i=0;i<maxSize;i++)
-  {
-      printf("%d ",CI[i]);
-  }
+  
   
    
 }
